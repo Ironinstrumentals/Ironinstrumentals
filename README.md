@@ -5,8 +5,8 @@
 - 🧠 I’m currently learning LUA
 - 🦺 I’m currently working on a Roblox Game
 - 📞 How to reach me:
-      - Discord: IronInstrumentals#6932
-      - Email: david.schlenker.webdev@gmail.com
+- Discord: IronInstrumentals#6932
+- Email: david.schlenker.webdev@gmail.com
 
 - 📂 My Portfolio:
       - WIP
