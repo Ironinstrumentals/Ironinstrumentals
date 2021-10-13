@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Schlenker, I'm 19 Years Old
+- 👋 Hi, I’m David Schlenker, I'm 20 Years Old
 - 🎓 I graduated from MTECH's Web Programming and Development certificate Program
 - 👀 I’m interested in Programming, Web Development, and Game Development
 - 💻 I'm Fluent in HTML, JavaScript, CSS, Angular 8, React, and Ionic
